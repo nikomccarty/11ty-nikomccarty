@@ -8,7 +8,7 @@ socialImage: ""
 
 _* = data journalism_
 
-<h4>By the Numbers (_Spectrum_ newsletter)</h4>
+<h4>By the Numbers (Spectrum newsletter)</h4>
 *Spectrum Index: IQ deviations, rural disparities and underweight infants | February 23, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-iq-deviations-rural-disparities-and-underweight-infants/" target="_blank">Read</a>
 
 *By the Numbers: Autism funding over time, West African research, racial reporting | February 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-funding-over-time-west-african-research-racial-reporting/" target="_blank">Read</a>
