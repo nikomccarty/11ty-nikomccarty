@@ -6,14 +6,14 @@ allPostsText: See all posts
 socialImage: ""
 ---
 
-<h4><u>By the Numbers, a data-driven newsletter for Spectrum</u></h4>
-<p>By the Numbers: Unequal ABA access, autism incidence by insurance type, criminal charges counts | January 20, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-unequal-aba-access-autism-incidence-by-insurance-type-criminal-charges-counts/" target="_blank">Read</a></p>
-<p>By the Numbers: Autism in translation, rising prevalence figures, intelligence quotients	| December 21, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-in-translation-rising-prevalence-figures-intelligence-quotients/" target="_blank">Read</a></p>
-<p>By the Numbers: Black neuroscience speakers, mildly effective CBT, autism’s diagnostic odyssey | November 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-black-neuroscience-speakers-mildly-effective-cbt-autisms-diagnostic-odyssey/" target="_blank">Read</a></p>
-<p>By the Numbers: Preschool antipsychotics, COVID-19 vaccinations, delayed autism diagnoses | October 20, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-preschool-antipsychotics-covid-19-vaccinations-delayed-autism-diagnoses/" target="_blank">Read</a></p>
-<p>By the Numbers: Machine learning, dementia link, antipsychotics while pregnant | September 16, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-machine-learning-dementia-link-antipsychotics-while-pregnant/" target="_blank">Read</a></p>
-<p>By the Numbers: Coronavirus infection odds, Medicaid waivers, correlating conditions | August 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-coronavirus-infection-odds-medicaid-waivers-correlating-conditions/" target="_blank">Read</a></p>
-By the Numbers: Polypharmacy, outpatient autism care, pandemic behaviors | July 1, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-polypharmacy-outpatient-autism-care-pandemic-behaviors/" target="_blank">Read</a></p>
+<h4>By the Numbers newsletter</h4>
+By the Numbers: Unequal ABA access, autism incidence by insurance type, criminal charges counts | January 20, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-unequal-aba-access-autism-incidence-by-insurance-type-criminal-charges-counts/" target="_blank">Read</a>
+By the Numbers: Autism in translation, rising prevalence figures, intelligence quotients	| December 21, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-in-translation-rising-prevalence-figures-intelligence-quotients/" target="_blank">Read</a>
+By the Numbers: Black neuroscience speakers, mildly effective CBT, autism’s diagnostic odyssey | November 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-black-neuroscience-speakers-mildly-effective-cbt-autisms-diagnostic-odyssey/" target="_blank">Read</a>
+By the Numbers: Preschool antipsychotics, COVID-19 vaccinations, delayed autism diagnoses | October 20, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-preschool-antipsychotics-covid-19-vaccinations-delayed-autism-diagnoses/" target="_blank">Read</a>
+By the Numbers: Machine learning, dementia link, antipsychotics while pregnant | September 16, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-machine-learning-dementia-link-antipsychotics-while-pregnant/" target="_blank">Read</a>
+By the Numbers: Coronavirus infection odds, Medicaid waivers, correlating conditions | August 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-coronavirus-infection-odds-medicaid-waivers-correlating-conditions/" target="_blank">Read</a>
+By the Numbers: Polypharmacy, outpatient autism care, pandemic behaviors | July 1, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-polypharmacy-outpatient-autism-care-pandemic-behaviors/" target="_blank">Read</a>
 
 <br>
 
