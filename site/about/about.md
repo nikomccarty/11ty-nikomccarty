@@ -20,7 +20,7 @@ B.S. in Biochemistry | University of Iowa
 					
 
 <h4>Published Research / Patents</h4>
-[Google Scholar page](https://scholar.google.com/citations?user=KX9_OFEAAAAJ&hl=en)
+<a href="https://scholar.google.com/citations?user=KX9_OFEAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 Ireland WT, Beeler SM, Flores-Bautista E, McCarty NS, Röschinger T, Belliveau NM, Sweredowski MJ, Moradian A, Kinney JB, Phillips R. “Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time.” eLife (2020). <a href="https://elifesciences.org/articles/55308" target="_blank">Read</a>
 
