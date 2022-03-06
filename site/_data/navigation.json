@@ -6,6 +6,16 @@
       "external": false
     },
     {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
+    {
+      "text": "Writing",
+      "url": "/writing",
+      "external": false
+    },
+    {
       "text": "Posts",
       "url": "/posts",
       "external": false
