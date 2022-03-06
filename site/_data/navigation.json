@@ -21,16 +21,6 @@
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/NikoMcCarty",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/nikomccarty",
-      "external": true
-    },
-    {
       "text": "Feed",
       "url": "/feed.xml",
       "external": true
