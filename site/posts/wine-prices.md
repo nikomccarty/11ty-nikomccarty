@@ -12,3 +12,29 @@ tags:
 This is the first blog post in what, I hope, will be a weekly series all about 'Data Journalism Adventures.' 
 
 More information to come...
+
+### Skills Involved
+
+
+### Background
+
+
+### Data Collection
+
+
+### Data Cleaning
+
+
+### Data Analysis
+
+
+### Plots
+
+
+### Summary
+
+
+#### Links to Resources
+- [GitHub]()
+- [Observable Notebook]
+
