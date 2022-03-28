@@ -35,6 +35,6 @@ More information to come...
 
 
 #### Links to Resources
-- [GitHub]()
-- [Observable Notebook]
+- [GitHub](https://github.com/nikomccarty/wine-prices)
+- [Observable Notebook](https://observablehq.com/@nikomccarty/data-adventures-1)
 
