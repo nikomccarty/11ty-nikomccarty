@@ -8,33 +8,6 @@ socialImage: ""
 
 _* = data journalism_
 
-<h4>By the Numbers (Spectrum newsletter)</h4>
-*By the Numbers: Services cliff, hospital costs, co-occurring ADHD | April 14, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-services-cliff-hospital-costs-co-occurring-adhd/" target="_blank">Read</a>
-
-*Spectrum Index: Rare genetic diagnoses, obesity odds, violence against children | March 31, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-rare-genetic-diagnoses-obesity-odds-violence-against-children/" target="_blank">Read</a>
-
-*By the Numbers: Mental health diagnoses, melatonin-tied polypharmacy, journal gender gap | March 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-mental-health-diagnoses-melatonin-tied-polypharmacy-journal-gender-gap/" target="_blank">Read</a>
-
-*Spectrum Index: IQ deviations, rural disparities and underweight infants | February 23, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-iq-deviations-rural-disparities-and-underweight-infants/" target="_blank">Read</a>
-
-*By the Numbers: Autism funding over time, West African research, racial reporting | February 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-funding-over-time-west-african-research-racial-reporting/" target="_blank">Read</a>
-
-*By the Numbers: Unequal ABA access, autism incidence by insurance type, criminal charges counts | January 20, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-unequal-aba-access-autism-incidence-by-insurance-type-criminal-charges-counts/" target="_blank">Read</a>
-
-*By the Numbers: Autism in translation, rising prevalence figures, intelligence quotients	| December 21, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-in-translation-rising-prevalence-figures-intelligence-quotients/" target="_blank">Read</a>
-
-*By the Numbers: Black neuroscience speakers, mildly effective CBT, autism’s diagnostic odyssey | November 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-black-neuroscience-speakers-mildly-effective-cbt-autisms-diagnostic-odyssey/" target="_blank">Read</a>
-
-*By the Numbers: Preschool antipsychotics, COVID-19 vaccinations, delayed autism diagnoses | October 20, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-preschool-antipsychotics-covid-19-vaccinations-delayed-autism-diagnoses/" target="_blank">Read</a>
-
-*By the Numbers: Machine learning, dementia link, antipsychotics while pregnant | September 16, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-machine-learning-dementia-link-antipsychotics-while-pregnant/" target="_blank">Read</a>
-
-*By the Numbers: Coronavirus infection odds, Medicaid waivers, correlating conditions | August 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-coronavirus-infection-odds-medicaid-waivers-correlating-conditions/" target="_blank">Read</a>
-
-*By the Numbers: Polypharmacy, outpatient autism care, pandemic behaviors | July 1, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-polypharmacy-outpatient-autism-care-pandemic-behaviors/" target="_blank">Read</a>
-
-<br>
-
 <h4>Spectrum</h4>
 Miniature microscope records thousands of neurons in moving mice | April 12, 2022 | <a href="https://www.spectrumnews.org/news/toolbox/miniature-microscope-records-thousands-of-neurons-in-moving-mice/" target="_blank">Read</a>
 
@@ -161,6 +134,33 @@ What is a figure about budgies doing in four different plant papers? | Jan. 29, 
 “The whole thing is yucky:” When you’re surprised to find yourself as an author on a paper | Jan. 26, 2021 | <a href="https://retractionwatch.com/2021/01/26/researcher-fired-for-including-an-author-not-involved-in-a-paper-says-colleague/" target="_blank">Read</a> (Later covered in <em><a href="https://www.wired.com/story/ai-research-paper-real-coauthor-not/" target="_blank">WIRED</a></em>.
 
 “I don’t think I slept for a day and a half:” Bad news for study about bad news | Jan. 25, 2021 | <a href="https://retractionwatch.com/2021/01/25/i-dont-think-i-slept-for-a-day-and-a-half-bad-news-for-study-about-bad-news/" target="_blank">Read</a>
+
+<br>
+
+<h4>By the Numbers (Spectrum newsletter)</h4>
+*By the Numbers: Services cliff, hospital costs, co-occurring ADHD | April 14, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-services-cliff-hospital-costs-co-occurring-adhd/" target="_blank">Read</a>
+
+*Spectrum Index: Rare genetic diagnoses, obesity odds, violence against children | March 31, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-rare-genetic-diagnoses-obesity-odds-violence-against-children/" target="_blank">Read</a>
+
+*By the Numbers: Mental health diagnoses, melatonin-tied polypharmacy, journal gender gap | March 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-mental-health-diagnoses-melatonin-tied-polypharmacy-journal-gender-gap/" target="_blank">Read</a>
+
+*Spectrum Index: IQ deviations, rural disparities and underweight infants | February 23, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-iq-deviations-rural-disparities-and-underweight-infants/" target="_blank">Read</a>
+
+*By the Numbers: Autism funding over time, West African research, racial reporting | February 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-funding-over-time-west-african-research-racial-reporting/" target="_blank">Read</a>
+
+*By the Numbers: Unequal ABA access, autism incidence by insurance type, criminal charges counts | January 20, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-unequal-aba-access-autism-incidence-by-insurance-type-criminal-charges-counts/" target="_blank">Read</a>
+
+*By the Numbers: Autism in translation, rising prevalence figures, intelligence quotients	| December 21, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-in-translation-rising-prevalence-figures-intelligence-quotients/" target="_blank">Read</a>
+
+*By the Numbers: Black neuroscience speakers, mildly effective CBT, autism’s diagnostic odyssey | November 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-black-neuroscience-speakers-mildly-effective-cbt-autisms-diagnostic-odyssey/" target="_blank">Read</a>
+
+*By the Numbers: Preschool antipsychotics, COVID-19 vaccinations, delayed autism diagnoses | October 20, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-preschool-antipsychotics-covid-19-vaccinations-delayed-autism-diagnoses/" target="_blank">Read</a>
+
+*By the Numbers: Machine learning, dementia link, antipsychotics while pregnant | September 16, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-machine-learning-dementia-link-antipsychotics-while-pregnant/" target="_blank">Read</a>
+
+*By the Numbers: Coronavirus infection odds, Medicaid waivers, correlating conditions | August 19, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-coronavirus-infection-odds-medicaid-waivers-correlating-conditions/" target="_blank">Read</a>
+
+*By the Numbers: Polypharmacy, outpatient autism care, pandemic behaviors | July 1, 2021 | <a href="https://www.spectrumnews.org/news/by-the-numbers-polypharmacy-outpatient-autism-care-pandemic-behaviors/" target="_blank">Read</a>
 
 <br>
 
