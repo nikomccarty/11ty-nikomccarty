@@ -9,6 +9,12 @@ socialImage: ""
 _* = data journalism_
 
 <h4>By the Numbers (Spectrum newsletter)</h4>
+*By the Numbers: Services cliff, hospital costs, co-occurring ADHD | April 14, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-services-cliff-hospital-costs-co-occurring-adhd/" target="_blank">Read</a>
+
+*Spectrum Index: Rare genetic diagnoses, obesity odds, violence against children | March 31, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-rare-genetic-diagnoses-obesity-odds-violence-against-children/" target="_blank">Read</a>
+
+*By the Numbers: Mental health diagnoses, melatonin-tied polypharmacy, journal gender gap | March 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-mental-health-diagnoses-melatonin-tied-polypharmacy-journal-gender-gap/" target="_blank">Read</a>
+
 *Spectrum Index: IQ deviations, rural disparities and underweight infants | February 23, 2022 | <a href="https://www.spectrumnews.org/news/spectrum-index-iq-deviations-rural-disparities-and-underweight-infants/" target="_blank">Read</a>
 
 *By the Numbers: Autism funding over time, West African research, racial reporting | February 16, 2022 | <a href="https://www.spectrumnews.org/news/by-the-numbers-autism-funding-over-time-west-african-research-racial-reporting/" target="_blank">Read</a>
@@ -30,6 +36,14 @@ _* = data journalism_
 <br>
 
 <h4>Spectrum</h4>
+Miniature microscope records thousands of neurons in moving mice | April 12, 2022 | <a href="https://www.spectrumnews.org/news/toolbox/miniature-microscope-records-thousands-of-neurons-in-moving-mice/" target="_blank">Read</a>
+
+Open-source algorithm automates common marble-burying assay | April 1, 2022 | <a href="https://www.spectrumnews.org/news/toolbox/open-source-algorithm-automates-common-marble-burying-assay/" target="_blank">Read</a>
+
+Switching neurons on and off to probe autism circuits | March 23, 2022 | <a href="https://www.spectrumnews.org/news/switching-neurons-on-and-off-to-probe-autism-circuits/" target="_blank">Read</a>
+
+Health-care barriers prevent many autistic people from seeking medical treatment | March 10, 2022 | <a href="https://www.spectrumnews.org/news/health-care-barriers-prevent-many-autistic-people-from-seeking-medical-treatment/" target="_blank">Read</a>
+
 Electronic health record alerts for physicians boost autism study enrollment | March 4, 2022 | <a href="https://www.spectrumnews.org/news/electronic-health-record-alerts-for-physicians-boost-autism-study-enrollment/" target="_blank">Read</a>
 
 Controlling neurons with ultrasound: Q&A with Sreekanth Chalasani | March 1, 2022 | <a href="https://www.spectrumnews.org/opinion/controlling-neurons-with-ultrasound-qa-with-sreekanth-chalasani/" target="_blank">Read</a>
@@ -85,6 +99,8 @@ Copyright claim prompts retraction of study on alexithymia in autism | June 9, 2
 <br>
 
 <h4>Scientific American</h4>
+Mosquitoes See Red (Literally) when They Smell Human Breath | May 2022 issue | <a href="https://www.scientificamerican.com/article/mosquitoes-see-red-literally-when-they-smell-human-breath/" target="_blank">Read</a>
+
 Newly Studied Proteins Expand CRISPR's Editing Range | Feb. 2021 issue | <a href="https://www.scientificamerican.com/article/newly-studied-proteins-expand-crisprs-editing-range/" target="_blank">Read</a>
 
 <br>
