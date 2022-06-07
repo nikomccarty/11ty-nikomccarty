@@ -5,9 +5,9 @@ postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
 ---
-Contact: nsmccarty3 at gmail.com
+Contact: niko at newscience.org
 
-I'm the Data Reporter at _Spectrum_, an autism news site in New York City. My work has appeared in _Retraction Watch_, _Scientific American_, _Forbes_, _The Counter_ and elsewhere. Prior to journalism, I was a scientist for 7 years, developing CRISPR tools and studying the link between diabetes and heart failure.
+My work has appeared in _Retraction Watch_, _Scientific American_, _Forbes_, _The Counter_ and elsewhere. Prior to journalism, I was a scientist for 7 years, developing CRISPR tools and studying the link between diabetes and heart failure. I worked at the Simons Foundation for one year, where I was the Data Journalist at _Spectrum_, a technical, autism news site.
 
 <h4>School</h4>
 M.A. in Science, Health and Environmental Reporting | New York University
